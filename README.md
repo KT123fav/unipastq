@@ -1,2 +1,2 @@
 # unipastq
-a past question wesite
+a past question website
